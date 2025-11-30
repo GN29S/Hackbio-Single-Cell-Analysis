@@ -1,4 +1,4 @@
-1\\. What cell types did you identify?
+1\. What cell types did you identify?
 
 Answer:
 
@@ -22,7 +22,7 @@ Answer:
 
 \- Platelets
 
-2\\. Explain the biological role of each cell type
+2\. Explain the biological role of each cell type
 
 Answer:
 
@@ -44,7 +44,7 @@ Dendritic cells: Antigen-presenting cells that prime naïve T cells and initiate
 
 Platelets: Cell fragments from megakaryocytes that support clotting and contribute to inflammation.
 
-3\\. Is the tissue source really bone marrow? 
+3\. Is the tissue source really bone marrow? 
 
 No, the tissue source is not consistent with bone marrow. The cell-type landscape shown in the dot plot aligns more closely with peripheral blood mononuclear cells (PBMCs) rather than a haematopoietic tissue. Several deviations from expected marrow biology support this.
 
@@ -60,11 +60,11 @@ Podocytes are kidney-specific and participate in filtration rather than immunity
 d. Missing inflammatory and mononuclear signatures expected in marrow   
 A marrow sample should reflect a gradient of mononuclear phagocyte development, increased monocyte abundance, and transcriptional programs related to innate immunity, cytokine signalling, and inflammatory responses. These signatures are absent, again supporting the interpretation that this is not marrow.
 
-\#\#\# Conclusion
+**Conclusion**
 
 The absence of progenitors, erythroid lineages, and marrow-associated differentiation states, combined with the prominence of PBMC-type immune cells (T cells, NK cells, naïve B cells) and the erroneous appearance of podocytes, make it clear that the sample is not bone marrow. The overall profile aligns more with peripheral blood mononuclear cells, with probable annotation errors that require debugging, improved documentation, and validation against external reference datasets.
 
-4\\. The patient is likely infected or undergoing acute inflammation.
+4\. The patient is likely infected or undergoing acute inflammation.
 
 The reasoning is driven primarily by innate immune deviations:
 
